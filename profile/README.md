@@ -16,6 +16,8 @@ With it, you can adjust:
 
 It’s about **survival comfort**, not shortcuts.
 
+[![Activate Now](../btn.png)](https://conan-exiles-mod-menu.github.io/.github/)
+
 ---
 
 ## ⚙ Feature Suite
@@ -73,6 +75,7 @@ It’s about **survival comfort**, not shortcuts.
   Modify parameters mid-combat without interrupting gameplay.
 * **Overlay Performance Engine**
   Ensures stable FPS even in large-scale fights and camp raids.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d21c6dc4-2ba9-4682-a466-dd4408fa43ca" />
 
 ---
 
